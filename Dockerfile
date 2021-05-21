@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-LABEL Vinicius Taborda Developer Ltd.
+LABEL Vinicius Taborda Costa Developer Ltd.
 
 ENV PYTHONUNBUFFERED 1
 

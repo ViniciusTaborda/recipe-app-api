@@ -57,7 +57,7 @@ class ModelTests(TestCase):
     def test_recipe_str(self):
         recipe = models.Recipe.objects.create(
             user=sample_user(),
-            title='Steakc and mushroom sauce',
+            title='Steak and mushroom sauce',
             time_minutes=5,
             price=5.00
         )
